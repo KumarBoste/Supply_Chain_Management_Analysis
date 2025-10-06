@@ -4,6 +4,9 @@
 ## Overview
 The Supply Chain Management Dashboard provides a holistic view of an organization’s supply chain performance. It highlights key business metrics such as Sales, Profit, Quantity Sold, Number of Orders, and Profit Margin, enabling data-driven decisions for better operational efficiency and profitability.
 
+### DASHBOARD
+![SCM DASHBOARD](https://github.com/KumarBoste/Supply_Chain_Management_Analysis/blob/main/Dashboard.png)
+
 ## 1. Key Performance Indicators (KPIs)
 The top section of the dashboard displays five main KPIs, summarizing the organization’s overall performance:
 
@@ -67,5 +70,3 @@ These filters make the dashboard dynamic and user-friendly, enabling stakeholder
 The dashboard effectively visualizes the company’s supply chain performance, helping management identify strong product segments and areas needing improvement.
 While overall sales and orders have declined significantly, the profit margin growth highlights improved efficiency. Future focus should be on increasing sales volume while maintaining the current cost control strategies to achieve sustainable growth.
 
-### DASHBOARD
-![SCM DASHBOARD](https://github.com/KumarBoste/Supply_Chain_Management_Analysis/blob/main/Dashboard.png)
