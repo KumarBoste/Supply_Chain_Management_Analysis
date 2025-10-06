@@ -1,5 +1,5 @@
 # Supply_Chain_Management_Analysis
-![SCM LOGO](https://github.com/KumarBoste/Supply_Chain_Management_Analysis/blob/main/SCM%20LOGO.png)
+![SCM LOGO](https://github.com/KumarBoste/Supply_Chain_Management_Analysis/blob/main/LOGO%20.jpg)
 
 ## Overview
 The **Supply Chain Management Dashboard** provides a holistic view of an organization’s supply chain performance. 
