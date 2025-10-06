@@ -68,4 +68,4 @@ The dashboard effectively visualizes the company’s supply chain performance, h
 While overall sales and orders have declined significantly, the profit margin growth highlights improved efficiency. Future focus should be on increasing sales volume while maintaining the current cost control strategies to achieve sustainable growth.
 
 ### DASHBOARD
-()
+![SCM DASHBOARD](https://github.com/KumarBoste/Supply_Chain_Management_Analysis/blob/main/Dashboard.png)
