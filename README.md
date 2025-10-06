@@ -39,19 +39,19 @@ These subcategories dominate the sales contribution, with Skincare holding the t
 
 ## 5. Category-Wise Sales %
 A donut chart displays the percentage share of total sales by each product category:
-- **Automotive** - 20.24%
-- **Clothing** - 20.24%
-- **Electronics** - 19.97%
-- **Health & Beauty** - 19.28%
-- **Home & Kitchen** - 20.15%
+- **Automotive** – 20.24%
+- **Clothing** – 20.24%
+- **Electronics** – 19.97%
+- **Health & Beauty** – 19.28%
+- **Home & Kitchen** – 20.15%
 
 Sales are evenly distributed across categories, showcasing a balanced portfolio with no over-dependence on any single product group.
 
 ## 6. Filters Section
 The dashboard includes interactive filters that enable customized data exploration:
-- **Year** - 2023, 2024, 2025 – allows trend analysis over time.
-- **Region** - East, North, South, West – supports regional performance comparison.
-- **Customer Type** - Enterprise, Retail, Wholesale – helps analyze segment-wise sales behavior.
+- **Year** – 2023, 2024, 2025 – allows trend analysis over time.
+- **Region** – East, North, South, West – supports regional performance comparison.
+- **Customer Type** – Enterprise, Retail, Wholesale – helps analyze segment-wise sales behavior.
 
 These filters make the dashboard dynamic and user-friendly, enabling stakeholders to drill down into specific insights.
 
