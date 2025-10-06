@@ -1,4 +1,4 @@
-# Supply_Chain_Management_Analysis
+# Supply Chain Management Analysis Using EXCEL
 ![SCM LOGO](https://github.com/KumarBoste/Supply_Chain_Management_Analysis/blob/main/SCM%20LOGO.jpg)
 
 ## Overview
