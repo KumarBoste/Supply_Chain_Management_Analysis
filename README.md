@@ -29,35 +29,35 @@ This waterfall-style visualization breaks down profit contributions by product c
 
 ## 4. Top 5 Subcategories by Sales
 The top-performing subcategories by sales are:
-- Skincare – $1,356.62K
-- Decor – $1,331.39K
-- Tyres – $1,324.13K
-- Cookware – $1,323.53K
-- Fitness Equipment – $1,317.93K
+- **Skincare** – $1,356.62K
+- **Decor** – $1,331.39K
+- **Tyres** – $1,324.13K
+- **Cookware** – $1,323.53K
+- **Fitness Equipment** – $1,317.93K
   
 These subcategories dominate the sales contribution, with Skincare holding the top position, reflecting strong demand in the Health & Beauty segment.
 
 ## 5. Category-Wise Sales %
 A donut chart displays the percentage share of total sales by each product category:
-- Automotive: 20.24%
-- Clothing: 20.24%
-- Electronics: 19.97%
-- Health & Beauty: 19.28%
-- Home & Kitchen: 20.15%
+- **Automotive**: 20.24%
+- **Clothing**: 20.24%
+- **Electronics**: 19.97%
+- **Health & Beauty**: 19.28%
+- **Home & Kitchen**: 20.15%
 
 Sales are evenly distributed across categories, showcasing a balanced portfolio with no over-dependence on any single product group.
 
 ## 6. Filters Section
 The dashboard includes interactive filters that enable customized data exploration:
-- Year: 2023, 2024, 2025 – allows trend analysis over time.
-- Region: East, North, South, West – supports regional performance comparison.
-- Customer Type: Enterprise, Retail, Wholesale – helps analyze segment-wise sales behavior.
+- **Year**: 2023, 2024, 2025 – allows trend analysis over time.
+- **Region**: East, North, South, West – supports regional performance comparison.
+- **Customer Type**: Enterprise, Retail, Wholesale – helps analyze segment-wise sales behavior.
 
 These filters make the dashboard dynamic and user-friendly, enabling stakeholders to drill down into specific insights.
 
 ## 7. Key Insights & Interpretation
 - The company experienced a sharp decline (~79%) in key KPIs compared to the previous year, signaling possible supply chain or market challenges.
-- Profit margin improvement (+10.14%) suggests operational optimization or cost-cutting efforts.
+- Profit margin improvement (+0.14%) suggests operational optimization or cost-cutting efforts.
 - Home & Kitchen and Health & Beauty categories are performing strongly in profitability.
 - The Skincare subcategory stands out as the top revenue driver.
 - The balance in category-wise sales % indicates diversified revenue streams, which is positive for long-term stability.
