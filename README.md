@@ -66,3 +66,6 @@ These filters make the dashboard dynamic and user-friendly, enabling stakeholder
 ## 8. Conclusion
 The dashboard effectively visualizes the company’s supply chain performance, helping management identify strong product segments and areas needing improvement.
 While overall sales and orders have declined significantly, the profit margin growth highlights improved efficiency. Future focus should be on increasing sales volume while maintaining the current cost control strategies to achieve sustainable growth.
+
+### DASHBOARD
+()
