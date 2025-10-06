@@ -71,5 +71,62 @@ These filters make the dashboard dynamic and user-friendly, enabling stakeholder
 The dashboard effectively visualizes the company’s supply chain performance, helping management identify strong product segments and areas needing improvement.
 While overall sales and orders have declined significantly, the profit margin growth highlights improved efficiency. Future focus should be on increasing sales volume while maintaining the current cost control strategies to achieve sustainable growth.
 
+## SWOT Analysis of Supply Chain Management Dashboard
+### 1. Strengths 💪
+- Comprehensive KPI Tracking:
+The dashboard covers all critical supply chain metrics — Sales, Profit, Quantity, Orders, and Profit Margin — offering a complete view of performance.
+-Improved Profit Margin:
+Despite reduced sales, profit margin increased by 10.14%, indicating better operational control and cost efficiency.
+-Balanced Category Contribution:
+Sales are evenly distributed across categories (each ~20%), reducing dependence on any single product segment.
+- High Profit from Key Categories:
+Home & Kitchen and Health & Beauty deliver strong profits, reflecting well-performing segments.
+-Interactive Filtering:
+The inclusion of filters by Year, Region, and Customer Type enhances data exploration and helps stakeholders perform in-depth analysis.
+
+### 2. Weaknesses ⚠️
+- Major YOY Decline:
+All major KPIs (Sales, Profit, Orders, Quantity) show a ~79% decline, signaling reduced demand, pricing challenges, or supply inefficiencies.
+- Low Sales Volume:
+A significant reduction in quantity sold (55,297 units) indicates declining market penetration or product turnover.
+- Category Profit Gaps:
+Automotive and Clothing categories underperform compared to others, hinting at margin or supply issues.
+- Limited Monthly Growth:
+Sales and profit trends remain flat across months with minor peaks, suggesting lack of seasonal or promotional optimization.
+- Possible Data Lag:
+The YOY comparison might not reflect real-time performance if data updates are infrequent or inconsistent.
+
+### 3. Opportunities 🚀
+- Targeted Marketing and Promotions:
+Increase focus on high-performing categories (Home & Kitchen, Health & Beauty) to leverage their strong profitability.
+- Category Optimization:
+Re-evaluate underperforming categories (Automotive, Clothing) — adjust pricing, suppliers, or distribution channels.
+- Regional Strategy Enhancement:
+Use filters to identify and strengthen weak regions — implement localized offers or supply chain adjustments.
+- Customer Segmentation:
+Analyze trends by customer type (Retail, Wholesale, Enterprise) to tailor strategies for each segment.
+- Automation & Forecasting:
+Incorporate predictive analytics (e.g., demand forecasting, inventory optimization) to improve efficiency and reduce costs.
+
+### 4. Threats ⚡
+- Market Competition:
+Competitors offering better prices or faster delivery could capture market share, worsening the sales decline.
+- Supply Chain Disruptions:
+Dependence on specific suppliers or regions may risk further performance drops if disruptions occur.
+- Changing Consumer Preferences:
+If product mix doesn’t align with market demand, sales might continue to fall despite efficiency improvements.
+- Economic Slowdown:
+Broader market or economic factors could suppress demand, especially in non-essential categories like Decor or Fitness Equipment.
+- Profitability Risk:
+If costs rise or sales continue to fall, maintaining the improved profit margin could become difficult
+
+## 📊 Summary
+| Category |	Key Points |
+|----------|-------------|
+|Strengths|Strong KPIs tracking, better profit margin, balanced sales distribution, interactive filters|
+|Weaknesses|YOY decline in performance, low sales volume, weak categories, flat trends|
+|Opportunities|Marketing focus, category improvement, regional optimization, customer segmentation|
+|Threats|Competition, supply disruptions, changing demand, economic instability|
+
 #### SUPPLY CHAIN MANAGEMENT EXCEL FILE LINK : 
 - Google Drive Link : [SUPPLY CHAIN MANAGMENT](https://docs.google.com/spreadsheets/d/1lPRgbG8v4P_zr669ayliWIDrZ9xYQfSj/edit?usp=sharing&ouid=114432120906844719090&rtpof=true&sd=true)
