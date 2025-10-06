@@ -120,13 +120,19 @@ Broader market or economic factors could suppress demand, especially in non-esse
 - **Profitability Risk**:
 If costs rise or sales continue to fall, maintaining the improved profit margin could become difficult
 
-## 📊 Summary
+## Summary 📊 
 | Category |	Key Points |
 |----------|-------------|
 |Strengths|Strong KPIs tracking, better profit margin, balanced sales distribution, interactive filters|
 |Weaknesses|YOY decline in performance, low sales volume, weak categories, flat trends|
 |Opportunities|Marketing focus, category improvement, regional optimization, customer segmentation|
 |Threats|Competition, supply disruptions, changing demand, economic instability|
+
+## Strategic Recommendation 🔍 
+To strengthen the supply chain, the company should:
+- Focus on boosting sales and order volume while retaining the improved profit margin.
+- Reallocate resources toward profitable categories and reduce inefficiencies in underperforming ones.
+- Implement data-driven forecasting and automation to enhance decision-making and supply chain agility.
 
 #### SUPPLY CHAIN MANAGEMENT EXCEL FILE LINK : 
 - Google Drive Link : [SUPPLY CHAIN MANAGMENT](https://docs.google.com/spreadsheets/d/1lPRgbG8v4P_zr669ayliWIDrZ9xYQfSj/edit?usp=sharing&ouid=114432120906844719090&rtpof=true&sd=true)
