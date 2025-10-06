@@ -76,7 +76,7 @@ While overall sales and orders have declined significantly, the profit margin gr
 - **Comprehensive KPI Tracking**:
 The dashboard covers all critical supply chain metrics — Sales, Profit, Quantity, Orders, and Profit Margin — offering a complete view of performance.
 - **Improved Profit Margin**:
-Despite reduced sales, profit margin increased by 10.14%, indicating better operational control and cost efficiency.
+Despite reduced sales, profit margin increased by 0.14%, indicating better operational control and cost efficiency.
 - **Balanced Category Contribution**:
 Sales are evenly distributed across categories (each ~20%), reducing dependence on any single product segment.
 - **High Profit from Key Categories**:
