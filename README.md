@@ -74,7 +74,6 @@ While overall sales and orders have declined significantly, the profit margin gr
 ## SWOT Analysis of Supply Chain Management Dashboard
 ### 1. Strengths 💪
 - **Comprehensive KPI Tracking**:
-
 The dashboard covers all critical supply chain metrics — Sales, Profit, Quantity, Orders, and Profit Margin — offering a complete view of performance.
 - **Improved Profit Margin**:
 Despite reduced sales, profit margin increased by 10.14%, indicating better operational control and cost efficiency.
