@@ -75,13 +75,13 @@ While overall sales and orders have declined significantly, the profit margin gr
 ### 1. Strengths 💪
 - Comprehensive KPI Tracking:
 The dashboard covers all critical supply chain metrics — Sales, Profit, Quantity, Orders, and Profit Margin — offering a complete view of performance.
--Improved Profit Margin:
+- Improved Profit Margin:
 Despite reduced sales, profit margin increased by 10.14%, indicating better operational control and cost efficiency.
--Balanced Category Contribution:
+- Balanced Category Contribution:
 Sales are evenly distributed across categories (each ~20%), reducing dependence on any single product segment.
 - High Profit from Key Categories:
 Home & Kitchen and Health & Beauty deliver strong profits, reflecting well-performing segments.
--Interactive Filtering:
+- Interactive Filtering:
 The inclusion of filters by Year, Region, and Customer Type enhances data exploration and helps stakeholders perform in-depth analysis.
 
 ### 2. Weaknesses ⚠️
