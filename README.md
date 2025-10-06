@@ -7,20 +7,19 @@ It highlights key business metrics such as Sales, Profit, Quantity Sold, Number 
 
 ## Introduction Questions 
 **What is Supply Chain Management Analysis?**
--It is the process of examining supply chain data to optimize operations, reduce costs, improve efficiency/profitability and enhance customer satisfaction.
+-> It is the process of examining supply chain data to optimize operations, reduce costs, improve efficiency/profitability and enhance customer satisfaction.
 
 **Functioning of Supply Chain Management**
--It manages the flow of goods and information from suppliers to customers through planning,  production, and distribution.
+-> It manages the flow of goods and information from suppliers to customers through planning,  production, and distribution.
 
 **Application of Supply Chain Management**
--Used in inventory control, demand forecasting, logistics, procurement, and customer service improvement.
+-> Used in inventory control, demand forecasting, logistics, procurement, and customer service improvement.
 
 **Existing Challenges of Supply Chain Management**
-
-Demand fluctuations, rising costs, supplier risks, lack of visibility, and global disruptions.
+-> Demand fluctuations, rising costs, supplier risks, lack of visibility, and global disruptions.
 
 **Define the Goal of the SCM Dashboard**
--To provide real-time insights into supply chain performance, track KPIs, and support data-driven decision-making.
+-> To provide real-time insights into supply chain performance, track KPIs, and support data-driven decision-making.
 
 <img width="1842" height="526" alt="image" src="https://github.com/user-attachments/assets/b1a321cb-092f-492a-966a-99c6077629be" />
 
