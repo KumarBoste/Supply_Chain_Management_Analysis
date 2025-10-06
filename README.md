@@ -71,5 +71,5 @@ These filters make the dashboard dynamic and user-friendly, enabling stakeholder
 The dashboard effectively visualizes the company’s supply chain performance, helping management identify strong product segments and areas needing improvement.
 While overall sales and orders have declined significantly, the profit margin growth highlights improved efficiency. Future focus should be on increasing sales volume while maintaining the current cost control strategies to achieve sustainable growth.
 
-## SUPPLY CHAIN MANAGEMENT EXCEL FILE LINK : 
-- Google Drive Link :[Google Drive LINK](https://docs.google.com/spreadsheets/d/1lPRgbG8v4P_zr669ayliWIDrZ9xYQfSj/edit?usp=sharing&ouid=114432120906844719090&rtpof=true&sd=true)
+#### SUPPLY CHAIN MANAGEMENT EXCEL FILE LINK : 
+- Google Drive Link : [SUPPLY CHAIN MANAGMENT](https://docs.google.com/spreadsheets/d/1lPRgbG8v4P_zr669ayliWIDrZ9xYQfSj/edit?usp=sharing&ouid=114432120906844719090&rtpof=true&sd=true)
