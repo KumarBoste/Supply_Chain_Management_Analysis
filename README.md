@@ -58,7 +58,7 @@ Sales are evenly distributed across categories, showcasing a balanced portfolio 
 The dashboard includes interactive filters that enable customized data exploration:
 - **Year** – 2023, 2024, 2025 – allows trend analysis over time.
 - **Region** – East, North, South, West – supports regional performance comparison.
-- **Customer Type** – Enterprise, Retail, Wholesale – helps analyze segment-wise sales behavior.
+- **Customer Segment** – Enterprise, Retail, Wholesale – helps analyze segment-wise sales behavior.
 
 These filters make the dashboard dynamic and user-friendly, enabling stakeholders to drill down into specific insights.
 
