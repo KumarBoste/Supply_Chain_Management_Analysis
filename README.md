@@ -123,7 +123,7 @@ Broader market or economic factors could suppress demand, especially in non-esse
 - **Profitability Risk**:
 If costs rise or sales continue to fall, maintaining the improved profit margin could become difficult
 
-## Summary 📊 
+## Swot Analysis Summary 📊 
 | Category |	Key Points |
 |----------|-------------|
 |Strengths|Strong KPIs tracking, better profit margin, balanced sales distribution, interactive filters|
