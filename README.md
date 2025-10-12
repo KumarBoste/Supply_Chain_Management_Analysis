@@ -137,5 +137,3 @@ To strengthen the supply chain, the company should:
 - Reallocate resources toward profitable categories and reduce inefficiencies in underperforming ones.
 - Implement data-driven forecasting and automation to enhance decision-making and supply chain agility.
 
-#### SUPPLY CHAIN MANAGEMENT EXCEL FILE LINK : 
-- Google Drive Link : [SUPPLY CHAIN MANAGMENT](https://docs.google.com/spreadsheets/d/1lPRgbG8v4P_zr669ayliWIDrZ9xYQfSj/edit?usp=sharing&ouid=114432120906844719090&rtpof=true&sd=true)
