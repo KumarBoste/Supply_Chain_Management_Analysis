@@ -73,7 +73,7 @@ The dashboard effectively visualizes the company’s supply chain performance, h
 While overall sales and orders have declined significantly, the profit margin growth highlights improved efficiency. Future focus should be on increasing sales volume while maintaining the current cost control strategies to achieve sustainable growth.
 
 ## SWOT Analysis of Supply Chain Management Dashboard
-### 1. Strengths 💪
+### 1. Strengths 
 - **Comprehensive KPI Tracking**:
 The dashboard covers all critical supply chain metrics — Sales, Profit, Quantity, Orders, and Profit Margin — offering a complete view of performance.
 - **Improved Profit Margin**:
@@ -85,7 +85,7 @@ Home & Kitchen and Health & Beauty deliver strong profits, reflecting well-perfo
 - **Interactive Filtering**:
 The inclusion of filters by Year, Region, and Customer Type enhances data exploration and helps stakeholders perform in-depth analysis.
 
-### 2. Weaknesses ⚠️
+### 2. Weaknesses 
 - **Major YOY Decline**:
 All major KPIs (Sales, Profit, Orders, Quantity) show a ~79% decline, signaling reduced demand, pricing challenges, or supply inefficiencies.
 - **Low Sales Volume**:
@@ -97,7 +97,7 @@ Sales and profit trends remain flat across months with minor peaks, suggesting l
 - **Possible Data Lag**:
 The YOY comparison might not reflect real-time performance if data updates are infrequent or inconsistent.
 
-### 3. Opportunities 🚀
+### 3. Opportunities 
 - **Targeted Marketing and Promotions**:
 Increase focus on high-performing categories (Home & Kitchen, Health & Beauty) to leverage their strong profitability.
 - **Category Optimization**:
@@ -109,7 +109,7 @@ Analyze trends by customer type (Retail, Wholesale, Enterprise) to tailor strate
 - **Automation & Forecasting**:
 Incorporate predictive analytics (e.g., demand forecasting, inventory optimization) to improve efficiency and reduce costs.
 
-### 4. Threats ⚡
+### 4. Threats 
 - **Market Competition**:
 Competitors offering better prices or faster delivery could capture market share, worsening the sales decline.
 - **Supply Chain Disruptions**:
@@ -121,7 +121,7 @@ Broader market or economic factors could suppress demand, especially in non-esse
 - **Profitability Risk**:
 If costs rise or sales continue to fall, maintaining the improved profit margin could become difficult
 
-## Swot Analysis Summary 📊 
+## Swot Analysis Summary 
 | Category |	Key Points |
 |----------|-------------|
 |Strengths|Strong KPIs tracking, better profit margin, balanced sales distribution, interactive filters|
@@ -129,7 +129,7 @@ If costs rise or sales continue to fall, maintaining the improved profit margin 
 |Opportunities|Marketing focus, category improvement, regional optimization, customer segmentation|
 |Threats|Competition, supply disruptions, changing demand, economic instability|
 
-## Strategic Recommendation 🔍 
+## Strategic Recommendation 
 To strengthen the supply chain, the company should:
 - Focus on boosting sales and order volume while retaining the improved profit margin.
 - Reallocate resources toward profitable categories and reduce inefficiencies in underperforming ones.
